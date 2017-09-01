@@ -1,6 +1,6 @@
 # ProjectSpring2017
 
-Simple 2-player Tank game made with node.js using express and socket.io.
+Simple 2-player Tank game made with node.js using express and socket.io along with p5.js and p5.play javascript libraries.
 
 Firstly the server.js file must be started in node, this can be executed by using the "node server.js" command within the correct directory.
 After this you will be able to access the game through a browser on port 3001 using either "localhost:3001" or the host's ip on port 3001.
